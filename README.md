@@ -21,7 +21,7 @@ Using Google Test complete next tasks
             return prices.size();
         }
    
-3. Implement method IsLeapYear described below and cover it with tests (You can try TDD here)
+2. Implement method IsLeapYear described below and cover it with tests (You can try TDD here)
 
 Given a year, report if it is a leap year.
 The tricky thing here is that a leap year in the Gregorian calendar occurs:
